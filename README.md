@@ -1,4 +1,4 @@
-# 🏈 gridiron-gold -- NFL Player Stats Tracker & Award Predictor
+# 🏈 NFL Player Stats Tracker & Award Predictor
 An interactive NFL player stat tracker and machine learning project that predicts season awards like MVP, OPOY, and DPOY -- updated weekly.
 
 ## 🔧 Features
