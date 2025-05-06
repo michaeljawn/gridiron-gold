@@ -42,8 +42,8 @@ gridiron-gold/
 
 - Python, pandas, NumPy
 - scikit-learn, XGBoost
-- Streamlit or Flask
-- SQLite or PostgreSQL
+- Streamlit / Flask
+- SQLite / PostgreSQL
 - Plotly / seaborn / matplotlib
 
 ## 🚀 How to Run Locally
