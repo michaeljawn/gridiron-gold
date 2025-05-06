@@ -63,4 +63,4 @@ Pull requests and feature suggestions welcome! If you’d like to collaborate on
 ## 📬 Contact
 
 Created by Michael John.  
-Feel free to connect with me on LinkedIn(https://www.linkedin.com/in/michael-john-06a098359/).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/michael-john-06a098359/).
